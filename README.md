@@ -20,5 +20,5 @@
 - [소켓](https://spark-earwig-6da.notion.site/10fe8e5a87df4344be5434f29703ba93?pvs=4)
 - [웹소켓](https://spark-earwig-6da.notion.site/aa2fea898e524944b15a1db628994381?pvs=4)
 - [stomp](https://spark-earwig-6da.notion.site/stomp-332fd750cfb942bbb0ed4b1bd5e3177a?pvs=4)
-- [채팅](https://spark-earwig-6da.notion.site/stomp-56a74123e2194e6d87470de9dc30a172?pvs=4)
+- [채팅, http부터 ](https://spark-earwig-6da.notion.site/stomp-56a74123e2194e6d87470de9dc30a172?pvs=4)
 - [화상회의 web-RTC]
